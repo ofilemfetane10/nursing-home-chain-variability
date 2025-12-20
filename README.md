@@ -58,9 +58,9 @@ However, this apparent stability does not generalize across all dimensions of ca
 For harm-related indicators — particularly physical restraint use and depression symptoms — variability **increases** with scale.
 
 The largest chains exhibit the widest spread in these outcomes, indicating that:
-- Some facilities perform well
-- Others deteriorate substantially
-- All operate under the same corporate umbrella
+- Some facilities perform well  
+- Others deteriorate substantially  
+- All operate under the same corporate umbrella  
 
 In other words, consolidation does not eliminate risk.  
 It redistributes it.
@@ -72,8 +72,8 @@ It redistributes it.
 CMS enforcement indicators reinforce this pattern.
 
 Larger chains account for substantially higher numbers of:
-- Special Focus Facilities (SFFs)
-- SFF candidates
+- Special Focus Facilities (SFFs)  
+- SFF candidates  
 
 These designations reflect persistent quality concerns rather than isolated incidents.
 
@@ -127,6 +127,13 @@ When variability grows, outcomes depend less on policy and more on where — and
 
 That is not a quality problem.  
 It is a system design problem.
+
+---
+
+## Disclaimer
+
+This project is an **independent structural analysis** using publicly available CMS data accessed via the CMS Open Data API.  
+The findings are descriptive and exploratory, intended to examine system-level patterns rather than provide exhaustive enumeration, causal inference, or evaluation of individual facilities or organizations.
 
 ---
 
